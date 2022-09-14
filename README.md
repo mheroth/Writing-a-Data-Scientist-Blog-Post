@@ -18,7 +18,7 @@ There is one  notebook available here to showcase work related to the above ques
 
 # Results
 The main findings of the code can be found at the post available:
---- link ---
+https://medium.com/@michael.heroth/whats-the-best-and-cheapest-way-to-stay-in-seattle-53e86b369af4
 
 # Licensing, Authors, Acknowledgements
 This dataset is part of Airbnb Inside, and the original source can be found here: https://www.kaggle.com/datasets/airbnb/seattle. There you can find also the Licensing for the data and other descriptive information . Otherwise, feel free to use the code here as you would like!
