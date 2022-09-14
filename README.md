@@ -21,5 +21,5 @@ The main findings of the code can be found at the post available:
 --- link ---
 
 # Licensing, Authors, Acknowledgements
-This dataset is part of Airbnb Inside, and the original source can be found -- here --. There you can find also the Licensing for the data and other descriptive information . Otherwise, feel free to use the code here as you would like!
+This dataset is part of Airbnb Inside, and the original source can be found here: https://www.kaggle.com/datasets/airbnb/seattle. There you can find also the Licensing for the data and other descriptive information . Otherwise, feel free to use the code here as you would like!
 
