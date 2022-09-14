@@ -11,7 +11,15 @@ For this project, I was interestested in using Seattle Airbnb Open Data to bette
 - How many accommodations are there for larger groups?
 - What is the price for the most expensive night for a person in Seattle?
 
+Overall, the results should give an assessment of the current situation of the accommodations in Seattle and be a help with the next booking. With the results, it should be possible to give recommendations on when is the best time to travel for certain target groups and how best to look for the cheapest accommodation for groups.
 
+# File Description
+There is one  notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
 
+# Results
+The main findings of the code can be found at the post available:
+--- link ---
 
+# Licensing, Authors, Acknowledgements
+This dataset is part of Airbnb Inside, and the original source can be found -- here --. There you can find also the Licensing for the data and other descriptive information . Otherwise, feel free to use the code here as you would like!
 
